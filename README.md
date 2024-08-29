@@ -17,7 +17,7 @@ This Telegram bot uses the ChatGPT API to communicate with users.
     TELEGRAM_TOKEN=telegram token
     CHATGPT_API_URL=https://api.openai.com/v1/chat/completions
     CHATGPT_API_KEY=OpenAI token
-    BOT_NAME=KamskyAI 
+    BOT_NAME=TelegramBOT
     SUPPORT_USERNAME=Your Telegram nickname 
     ```
 
