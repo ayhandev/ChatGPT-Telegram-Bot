@@ -14,11 +14,11 @@ This Telegram bot uses the ChatGPT API to communicate with users.
 2. Create a .env file in the root of your project with your API keys. Example content of the .env file:
 
     ```env
-    TELEGRAM_TOKEN=ваш_telegram_token
+    TELEGRAM_TOKEN=telegram token
     CHATGPT_API_URL=https://api.openai.com/v1/chat/completions
-    CHATGPT_API_KEY=ваш_openai_api_key
+    CHATGPT_API_KEY=OpenAI token
     BOT_NAME=KamskyAI 
-    SUPPORT_USERNAME=kamsky00
+    SUPPORT_USERNAME=Your Telegram nickname 
     ```
 
 ## Running
